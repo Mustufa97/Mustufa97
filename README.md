@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hi 👋, I'm Ghulam Mustafa Khan
+Software Engineer |🔍 QA Engineer | FinTech-Focused | Manual & API Testing | Technical Docs & Proposals | React.js QA | Agile
+
 🔭 I’m currently working on  QA processes, test automation planning, and technical proposal documentation for web and mobile platforms.<br>👯 I’m looking to collaborate on high-quality web and mobile applications, particularly in FinTech, SaaS, and enterprise domains.<br>🤝 I’m looking for help with connecting to QA opportunities in FinTech, SaaS, and high-impact software teams.<br>💬 Ask me about QA strategy, FinTech product testing, frontend QA (React), or turning technical chaos into clear documentation.<br>📫 How to reach me: mustufakhanofficial97@gmail.com<br>👨‍💻 Explore my work in QA, FinTech testing, and technical documentation at github.com/Mustufa97<br>📄 Learn about my experience working on projects like Rize App, Welab, and Al Ahli Bank — where I handled QA, documentation, and release coordination.<br>⚡ Fun fact I love breaking software just enough to help build it better.<br>
 
 
