@@ -1,9 +1,47 @@
-# 💫 About Me:
+💫 About Me:
 Hi 👋, I'm Ghulam Mustafa Khan
 
-Software Engineer |🔍 QA Engineer | FinTech-Focused | Manual & API Testing | Technical Docs & Proposals | React.js QA | Agile
+Software Engineer |.Netcore| FinTech-Focused | Manual & API Testing | Technical Docs & Proposals | React.js | Agile
 
-🔭 I’m currently working on  QA processes, test automation planning, and technical proposal documentation for web and mobile platforms.<br>👯 I’m looking to collaborate on high-quality web and mobile applications, particularly in FinTech, SaaS, and enterprise domains.<br>🤝 I’m looking for help with connecting to QA opportunities in FinTech, SaaS, and high-impact software teams.<br>💬 Ask me about QA strategy, FinTech product testing, frontend QA (React), or turning technical chaos into clear documentation.<br>📫 How to reach me: mustufakhanofficial97@gmail.com<br>👨‍💻 Explore my work in QA, FinTech testing, and technical documentation at github.com/Mustufa97<br>📄 Learn about my experience working on projects like Rize App, Welab, and Al Ahli Bank — where I handled QA, documentation, and release coordination.<br>⚡ Fun fact I love breaking software just enough to help build it better.<br>
+🔭 I’m a results-driven Software Engineer passionate about designing, developing, and testing scalable web and mobile applications across FinTech, healthcare, logistics, and enterprise domains.
+
+I specialize in React.js, React Native, and .NET (C#, ASP.NET MVC, .NET Core) — blending frontend creativity with backend reliability to deliver seamless, high-performing, and secure digital products.
+
+🧠 Technical Expertise
+
+Frontend: React.js, React Native, JavaScript, Bootstrap, HTML5, CSS3
+
+Backend: ASP.NET MVC, .NET Core, Entity Framework, LINQ
+
+Database: SQL Server, MySQL
+
+QA & Testing: Manual Testing, API Testing (Postman), Regression & Exploratory Testing
+
+Tools & Processes: Git, Visual Studio, JIRA, Postman, Agile/Scrum, SDLC
+
+💼 Highlighted Projects
+
+Al Rajhi Bank (Malaysia): Developed and tested key modules for a mobile banking app, integrating secure APIs and optimizing frontend performance.
+
+Al Ahli Bank (Oman): Built campaign management features using .NET MVC and contributed to backend enhancements and QA validation.
+
+Welab Healthcare Platform (Canada): Implemented React-based UI components and API integration for patient data management and QA verification.
+
+Fleet Management System: Designed and built a real-time fleet tracking and vehicle maintenance platform using React.js and .NET Core.
+
+Human Resource Management (HRM) System: Created employee attendance, payroll, and performance modules with Entity Framework and Razor Views.
+
+Customer Relationship Management (CRM) System: Built customer engagement dashboards and automated workflow features using React.js and RESTful APIs.
+
+Restaurant Management System: Developed a complete order, billing, and inventory module with .NET Core backend and responsive React frontend.
+
+🧩 Beyond Code
+
+I’m passionate about technical documentation, system design, and product clarity — ensuring every solution I build is functional, maintainable, and aligned with business objectives.
+
+Certified in Web & Mobile Application Development by the Skill Development Council (Pakistan), I bring a mindset of precision, collaboration, and excellence to every project.
+
+💬 Let’s connect if you’re seeking a software engineer who unites frontend, backend, and QA expertise to create user-centric, scalable, and high-quality software solutions.<br>
 
 
 ## 🌐 Socials:
